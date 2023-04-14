@@ -5,5 +5,5 @@
 This is where I'll store some user-config files.
 
 ## Why such repo?
-My goal that I don't lose them from computer to computer, and can enhance them over time.
+My goal is that I don't lose them from computer to computer, and can enhance them over time.
 Having feedback from other people is definitely a plus
