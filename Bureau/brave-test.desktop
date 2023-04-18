@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Launch Medium
+GenericName=brave on orange portal
+Comment=orange email
+Exec=/usr/bin/brave-browser-stable --app=https://medium.com/ 
+StartupNotify=true
+Terminal=false
+Icon=thunderbird
+Type=Application
+Categories=Network;WebBrowser;
+MimeType=application/pdf;application/rdf+xml;application/rss+xml;application/xhtml+xml;application/xhtml_xml;application/xml;image/gif;image/jpeg;image/png;image/webp;text/html;text/xml;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ipfs;x-scheme-handler/ipns;
