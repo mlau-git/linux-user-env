@@ -13,4 +13,4 @@ Having feedback from other people is definitely a plus
 2. In your `Bureau` folder (depending on your locale), cp the `.desktop` files (they should be sourced automatically, and appear on your desktop)
 
 Any comment or Question?
-Use the `Discussions` area
+Use the `Discussions` area [and engage](https://github.com/mlau-git/linux-user-env/discussions)!
